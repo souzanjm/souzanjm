@@ -1,0 +1,3 @@
+- hi!! i'm Tati :)
+- currently studying Information Systems;
+- learning C;
