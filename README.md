@@ -1,3 +1,3 @@
 - hi!! i'm Tati :)
 - currently studying Information Systems
-- C, HTML and CSS
+- C, HTML+CSS+JS
