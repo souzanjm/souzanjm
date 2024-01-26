@@ -1,2 +1,2 @@
-- hi!! i'm Tati :)
-- currently studying Information Systems
+- Hi!! I'm Tati :)
+- Bachelor of Information Systems
