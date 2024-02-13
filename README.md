@@ -7,6 +7,8 @@
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
+##
+
  <div>
   <a href="https://github.com/Luukzy">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=souzanjm&show_icons=true&theme=radical"/>
