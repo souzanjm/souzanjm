@@ -1,6 +1,6 @@
 👋 Hi, I'm Tati — Brazilian tech student & future NLP engineer  
 🎓 Technologist in Systems Analysis and Development (TADS) | Specializing in AI and Natural Language Processing                                              
-🌍 pt/br (native), en/en (c1) and fr/fr (a1)
+🌍 pt-BR (native), EN (c1) and FR (a1)
 
 <div> 
 <img align="center" alt="Tati-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
