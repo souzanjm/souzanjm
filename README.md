@@ -1,5 +1,5 @@
 👋 Hi, I'm Tati — Brazilian tech student & future NLP engineer  
-🎓 Technologist in Systems Analysis and Development (TADS) | Specializing in AI and Natural Language Processing
+🎓 Technologist in Systems Analysis and Development (TADS) | Specializing in AI and Natural Language Processing             
 💻 Python • Machine Learning • Transformers • Data Projects
 
 <div> 
