@@ -1,5 +1,6 @@
-- Hi!! I'm Tati :)
-- Bachelor of Information Systems
+👋 Hi, I'm Tati — Brazilian tech student & future NLP engineer  
+🎓 Technologist in Systems Analysis and Development (TADS) | Specializing in AI and Natural Language Processing
+💻 Python • Machine Learning • Transformers • Data Projects
 
 <div> 
 <img align="center" alt="Tati-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
