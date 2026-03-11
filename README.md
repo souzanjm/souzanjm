@@ -1,6 +1,6 @@
 # 👩🏼‍💻 Tatiane Souza
 
-**`Futura Engenheira de NLP | Python & IA`**
+**`Futura Engenheira de IA | Python & NLP`**
 
 Me chamo Tatiane, tenho 20 anos e sou natural de Mato Grosso do Sul 🇧🇷  
 
